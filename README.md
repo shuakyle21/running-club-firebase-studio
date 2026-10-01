@@ -1,3 +1,4 @@
+![Running App Screenshot](img/running-app-1.png)
 # Stride Running Club
 
 > High-energy community running club web app featuring verified routes, interactive GPS maps, upcoming group runs, RSVP coordination, and official club member rostering.
@@ -103,3 +104,12 @@ npm start
 ## 📄 License
 
 MIT License © Stride Running Club Connect.
+
+## Sample Screenshots
+
+![Running App Dashboard 2](img/running-app-2.png)
+![Running App Dashboard](img/running-app-3.png)
+![Running App Dashboard](img/running-app-4.png)
+
+
+
