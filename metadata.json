@@ -1,0 +1,6 @@
+{
+  "name": "Stride Running Club",
+  "description": "High-energy community running club web app with verified routes, interactive GPS maps, upcoming group runs, and RSVP coordination.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
